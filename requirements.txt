@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+ace_tools
+ace-tools-open
+streamlit
